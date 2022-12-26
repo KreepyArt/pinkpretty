@@ -1,2 +1,3 @@
 Fonts used: JetBrainsMono Nerd Fonts
-Credit: Kreeps
+Credit: Theming done by Kreeps (mostly)
+i3 scripts provided by Endeavouros
